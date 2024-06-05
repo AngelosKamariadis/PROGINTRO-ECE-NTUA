@@ -5,4 +5,4 @@ A few of them are missing but they will be added soon!
 
 Some of them may not be ideal in terms of complexity, but for sure they pass all the test cases on Grader.
 
-Any correction to mistakes i may have made while writing this files as well as any optimization, will be appreciated!
+Any correction to mistakes i may have made while writing these files as well as any optimization, will be appreciated!
